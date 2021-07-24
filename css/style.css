@@ -4,6 +4,13 @@
 .catagories img{
     width: 100px;
 }
-.panda-btn-warning{
+.panda-btn-buy{
+    color: white;
     background-color: #FF136F;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
+.footer-color{
+    background-color: #FEEAE9
 }
